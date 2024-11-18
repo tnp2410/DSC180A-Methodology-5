@@ -4,7 +4,7 @@ UCSD Email: tnp003@ucsd.edu
 
 ## Section and Mentor
 
-**Section:** B02
+**Section:** B02 \\
 **Mentor:** Brian Duke and Kyle Nero
 
 ## Quarter 2 Project Proposal Brainstorming
