@@ -1,8 +1,3 @@
----
-layout: default
-title: Index
----
-
 # Tracy Pham
 
 UCSD Email: tnp003@ucsd.edu
@@ -16,17 +11,17 @@ UCSD Email: tnp003@ucsd.edu
 
 ### **What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic covered this quarter is the integration of Geographic Information Systems (GIS) with data science techniques. I have learned how to apply machine learning models to spatial data, which can enhance predictions in various applications such as waste management and resource distribution.
+The most interesting topic this quarter is learning about multi-class classification and performance measurement techniques like AUC/ROC and accuracy. I also found the use of TF/IDF for feature creation and cross-validation to be valuable for building better machine learning models. These topics are exciting because they directly apply to the real-world problem of determining credit risk.
 
 ### **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-For my Quarter 2 project, I would like to investigate how GIS can be used to optimize waste collection routes using machine learning techniques. Specifically, I want to explore how traffic patterns, waste volumes, and geographic factors can be combined to predict the best collection routes for waste trucks, reducing fuel consumption and improving efficiency.
+For my Quarter 2 project, I would like to investigate how well different feature engineering techniques, such as creating balance and income-related features, can predict consumer credit risk. I plan to explore attributes related to spending, income, and balance over time, as well as test how different methods for feature selection impact the model’s performance.
 
 ### **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
-In my Quarter 1 project, I focused on analyzing missed collection data for waste management. A potential change I would make is to incorporate real-time data from smart waste bins, which can notify when bins are full. This would allow for a dynamic adjustment of routes to avoid missed collections in the future.
+I would like to be more methodical in how I choose models and train the data. Specifically, I plan to apply a more structured approach to feature selection and model evaluation to ensure I’m choosing the best techniques for the problem. I’ll also experiment with different data processing strategies to improve model performance.
 
 ### **What other techniques would you be interested in using in your project?**
 
-I would be interested in using deep learning techniques, specifically convolutional neural networks (CNNs), to analyze spatial data for pattern recognition. I am also keen on exploring optimization algorithms to better adjust and fine-tune collection routes as conditions change.
+In my project, I would explore different feature extraction tools to enhance model performance. For instance, I could use windowing to create time-series features, such as moving averages or differences between consecutive values. For text data, I might try tools like CountVectorizer to convert text into numerical features based on word frequency or Word2Vec for representing words in a high-dimensional space based on context. Additionally, I could apply log transformations to handle skewed data or use binning to group continuous values into discrete categories. These techniques would allow me to extract meaningful features from the data, improving the model’s ability to make accurate predictions.
 
