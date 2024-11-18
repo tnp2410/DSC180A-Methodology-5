@@ -1,5 +1,6 @@
-# Tracy Pham
+# DSC180A-Methodology-5
 
+Name: Tracy Pham \
 UCSD Email: tnp003@ucsd.edu
 
 ## Section and Mentor
